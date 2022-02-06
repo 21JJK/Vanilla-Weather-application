@@ -1,3 +1,7 @@
+//Improve the project including the search engine, API integration
+//unit conversion, wind speed, weather description,
+//and weather icon are mandatory. The project should not include the forecast yet.
+
 function formatDate(timestamp) {
   let date = new Date(timestamp);
   let hours = date.getHours();
